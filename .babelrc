@@ -1,0 +1,8 @@
+{
+    "presets": [
+      "razzle/babel",
+      "@lingui/babel-preset-react",
+      "@babel/env"
+    ],
+    "plugins": ["emotion","transform-class-properties"]
+  }
