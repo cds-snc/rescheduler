@@ -1,0 +1,10 @@
+{
+  "Warning! This is a prototype that won’t submit your request. Do not use this page.": {
+    "origin": [
+      [
+        "src/components/FlashBanner.js",
+        32
+      ]
+    ]
+  }
+}

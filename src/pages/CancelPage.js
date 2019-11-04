@@ -57,8 +57,7 @@ class CancelPage extends React.Component {
           </p>
           <p>
             <Trans>
-              If you missed your appointment, you still need to contact IRCC
-              within 30 days. If you don’t, your application could be delayed or
+              If you missed your appointment, you still need to contact us within 30 days. If you don’t, your application could be delayed or
               abandoned.
             </Trans>
           </p>

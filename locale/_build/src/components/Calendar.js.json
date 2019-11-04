@@ -1,0 +1,74 @@
+{
+  "Please select another date": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        512
+      ]
+    ]
+  },
+  "You can’t select more than 3 days. To change your selections, remove some days first.": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        648
+      ]
+    ]
+  },
+  "To change your selections, remove some days first": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        772
+      ]
+    ]
+  },
+  "Your 3 selected days:": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        833
+      ]
+    ]
+  },
+  "Your 2 selected days, select 1 more:": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        835
+      ]
+    ]
+  },
+  "Your 1 selected day, select 2 more:": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        837
+      ]
+    ]
+  },
+  "Select 3 days:": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        839
+      ]
+    ]
+  },
+  "Remove day": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        851
+      ]
+    ]
+  },
+  "I cannot attend any of the available appointments": {
+    "origin": [
+      [
+        "src/components/Calendar.js",
+        865
+      ]
+    ]
+  }
+}

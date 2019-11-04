@@ -1,0 +1,34 @@
+{
+  "and": {
+    "origin": [
+      [
+        "src/pages/CalendarPage.js",
+        145
+      ]
+    ]
+  },
+  "Please select 2 more days to continue.": {
+    "origin": [
+      [
+        "src/pages/CalendarPage.js",
+        267
+      ]
+    ]
+  },
+  "Please select 1 more day to continue.": {
+    "origin": [
+      [
+        "src/pages/CalendarPage.js",
+        275
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/pages/CalendarPage.js",
+        336
+      ]
+    ]
+  }
+}

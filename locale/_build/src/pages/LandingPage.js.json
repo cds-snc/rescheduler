@@ -1,0 +1,98 @@
+{
+  "Request a new appointment": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        94
+      ]
+    ]
+  },
+  "Tell us you can’t attend your appointment, and request a new one.": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        101
+      ]
+    ]
+  },
+  "You will need:": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        108
+      ]
+    ]
+  },
+  "Your paper file number": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        113
+      ]
+    ]
+  },
+  "To describe your reason for rescheduling": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        119
+      ]
+    ]
+  },
+  "Next, you’ll select": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        128
+      ]
+    ]
+  },
+  "3 days": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        130
+      ]
+    ]
+  },
+  "you’re available between": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        132
+      ]
+    ]
+  },
+  "and": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        136
+      ]
+    ]
+  },
+  "Then we’ll review your request and send you a new appointment for one of the days you selected.": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        146
+      ]
+    ]
+  },
+  "Requesting a new appointment will cancel your current one. Do not attend your old appointment after you complete this request.": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        154
+      ]
+    ]
+  },
+  "Start now": {
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        162
+      ]
+    ]
+  }
+}

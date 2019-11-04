@@ -1,0 +1,26 @@
+{
+  "Sorry, something went wrong. We received your request, but you might not get a confirmation email. Please make note of your request information": {
+    "origin": [
+      [
+        "src/pages/ConfirmationPage.js",
+        45
+      ]
+    ]
+  },
+  "Availability:": {
+    "origin": [
+      [
+        "src/pages/ConfirmationPage.js",
+        54
+      ]
+    ]
+  },
+  "Thank you! Your request has been received.": {
+    "origin": [
+      [
+        "src/pages/ConfirmationPage.js",
+        92
+      ]
+    ]
+  }
+}

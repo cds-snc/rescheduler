@@ -1,0 +1,26 @@
+{
+  "Page not found.": {
+    "origin": [
+      [
+        "src/pages/FourOhFourPage.js",
+        26
+      ]
+    ]
+  },
+  "The page you’re trying to reach doesn’t exist. Please retry the link in the email or letter you received from": {
+    "origin": [
+      [
+        "src/pages/FourOhFourPage.js",
+        29
+      ]
+    ]
+  },
+  "Home": {
+    "origin": [
+      [
+        "src/pages/FourOhFourPage.js",
+        42
+      ]
+    ]
+  }
+}

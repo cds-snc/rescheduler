@@ -20,8 +20,8 @@ const abbreviation = css`
 
 const IRCCAbbr = withI18n()(({ i18n }) => (
   <span className={abbreviation}>
-    <abbr title={i18n._('Immigration, Refugees and Citizenship Canada')}>
-      IRCC
+    <abbr title={i18n._('Demo Service')}>
+      Demo Service
     </abbr>
   </span>
 ))

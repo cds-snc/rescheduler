@@ -1,0 +1,34 @@
+{
+  "Contact": {
+    "origin": [
+      [
+        "src/components/Footer.js",
+        117
+      ]
+    ]
+  },
+  "Privacy": {
+    "origin": [
+      [
+        "src/components/Footer.js",
+        122
+      ]
+    ]
+  },
+  "https://digital.canada.ca/legal/terms/": {
+    "origin": [
+      [
+        "src/components/Footer.js",
+        125
+      ]
+    ]
+  },
+  "Terms": {
+    "origin": [
+      [
+        "src/components/Footer.js",
+        126
+      ]
+    ]
+  }
+}

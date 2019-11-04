@@ -85,7 +85,8 @@
         "src/components/PhaseBanner.js",
         76
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "Cancel request": {
     "translation": "Annuler la demande",
@@ -172,12 +173,30 @@
       ]
     ]
   },
+  "DEMO": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/PhaseBanner.js",
+        76
+      ]
+    ]
+  },
   "December": {
     "translation": "décembre",
     "origin": [
       [
         "src/utils/linguiUtils.js",
         24
+      ]
+    ]
+  },
+  "Demo Service": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/IRCCAbbr.js",
+        23
       ]
     ]
   },
@@ -391,7 +410,7 @@
     "origin": [
       [
         "src/pages/ErrorPage.js",
-        84
+        69
       ],
       [
         "src/pages/FourOhFourPage.js",
@@ -431,11 +450,7 @@
     "origin": [
       [
         "src/pages/CancelPage.js",
-        67
-      ],
-      [
-        "src/pages/ConfirmationPage.js",
-        121
+        66
       ]
     ]
   },
@@ -455,6 +470,16 @@
         "src/pages/CancelPage.js",
         59
       ]
+    ],
+    "obsolete": true
+  },
+  "If you missed your appointment, you still need to contact us within 30 days. If you don’t, your application could be delayed or abandoned.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/pages/CancelPage.js",
+        59
+      ]
     ]
   },
   "Immigration, Refugees and Citizenship Canada": {
@@ -464,7 +489,8 @@
         "src/components/IRCCAbbr.js",
         23
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "Important message": {
     "translation": "Message important",
@@ -921,16 +947,21 @@
       ]
     ]
   },
+  "Request a new appointment": {
+    "translation": "",
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        94
+      ]
+    ]
+  },
   "Request a new citizenship appointment": {
     "translation": "Demander un nouveau rendez-vous d’examen de citoyenneté",
     "origin": [
       [
         "src/components/Title.js",
         13
-      ],
-      [
-        "src/pages/LandingPage.js",
-        94
       ]
     ]
   },
@@ -1174,6 +1205,16 @@
         "src/pages/LandingPage.js",
         101
       ]
+    ],
+    "obsolete": true
+  },
+  "Tell us you can’t attend your appointment, and request a new one.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/pages/LandingPage.js",
+        101
+      ]
     ]
   },
   "Terms": {
@@ -1237,7 +1278,8 @@
         "src/components/PageHeader.js",
         39
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "This is the full name you used on your citizenship application.": {
     "translation": "Il s’agit du nom complet que vous avez utilisé dans votre demande de citoyenneté.",
@@ -1318,10 +1360,6 @@
   "Travel": {
     "translation": "Voyage",
     "origin": [
-      [
-        "src/components/__tests__/Summary.test.js",
-        19
-      ],
       [
         "src/pages/ReviewPage.js",
         38
@@ -1433,7 +1471,8 @@
         "src/pages/ConfirmationPage.js",
         97
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "What happens next?": {
     "translation": "Quelles sont les étapes suivantes?",
@@ -1441,10 +1480,6 @@
       [
         "src/pages/CancelPage.js",
         50
-      ],
-      [
-        "src/pages/ConfirmationPage.js",
-        104
       ]
     ]
   },
@@ -1688,7 +1723,8 @@
         "src/components/PageHeader.js",
         41
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "let us know what happened": {
     "translation": "nous aider en décrivant ce qui s’est passé",
@@ -1697,7 +1733,8 @@
         "src/pages/ErrorPage.js",
         64
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "send an email to let us know what happened": {
     "translation": "nous envoyer un courriel décrivant ce qui s’est passé",
@@ -1706,7 +1743,8 @@
         "src/pages/ErrorPage.js",
         68
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "sending your feedback": {
     "translation": "envoyant vos commentaires",
@@ -1715,7 +1753,8 @@
         "src/components/PageHeader.js",
         47
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "was not completed": {
     "translation": "n’a pas été complétée",
@@ -1733,7 +1772,8 @@
         "src/pages/ConfirmationPage.js",
         109
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "will send you a new appointment. You will always be contacted at least 3 weeks before your appointment.": {
     "translation": "vous enverra un nouveau rendez-vous. Nous communiquerons avec vous au moins 3 semaines avant votre rendez-vous.",
@@ -1742,7 +1782,8 @@
         "src/pages/ConfirmationPage.js",
         113
       ]
-    ]
+    ],
+    "obsolete": true
   },
   "you’re available between": {
     "translation": "quand vous serez disponible entre",

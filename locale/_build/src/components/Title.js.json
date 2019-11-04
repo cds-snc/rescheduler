@@ -1,0 +1,82 @@
+{
+  "Request a new citizenship appointment": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        13
+      ]
+    ]
+  },
+  "Provide some basic information": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        21
+      ]
+    ]
+  },
+  "Select 3 days you’re available": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        24
+      ]
+    ]
+  },
+  "Apply for an appointment extension": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        27
+      ]
+    ]
+  },
+  "Review your request": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        32
+      ]
+    ]
+  },
+  "Request received": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        35
+      ]
+    ]
+  },
+  "Request cancelled": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        38
+      ]
+    ]
+  },
+  "Something went wrong": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        43
+      ]
+    ]
+  },
+  "Privacy policy": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        46
+      ]
+    ]
+  },
+  "Page not found": {
+    "origin": [
+      [
+        "src/components/Title.js",
+        50
+      ]
+    ]
+  }
+}
