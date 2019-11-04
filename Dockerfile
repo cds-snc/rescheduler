@@ -7,9 +7,9 @@ WORKDIR /web
 
 EXPOSE 3004
 
-RUN yarn install --production
-RUN yarn build
+RUN npm install --production
+RUN npm build
 
 USER node
 
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["npm", "start"]

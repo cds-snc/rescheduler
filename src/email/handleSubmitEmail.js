@@ -1,8 +1,8 @@
 import { CalendarFields, RegistrationFields } from '../validation'
 import Validator from 'validatorjs'
-import { getMailer, getEmailParms, cleanDates, sendMail } from './sendmail'
+import { cleanDates } from './sendmail'
 
-import { handleMailError, captureMessage } from '../utils/serverUtils'
+import { captureMessage } from '../utils/serverUtils'
 
 export const handleSubmitEmail = async (req, res) => {
   let input = Object.assign({}, req.body) // make a new object
