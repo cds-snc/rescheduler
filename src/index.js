@@ -12,18 +12,7 @@ let currentApp = app
   Source: https://github.com/jaredpalmer/razzle/issues/356#issuecomment-366275253
 */
 
-// bypass webpack.DefinePlugin
-const { env } = require('process')
-
-const port = () =>
-  parseInt(
-    env.RAZZLE_PORT ||
-      env.PORT ||
-      process.env.RAZZLE_PORT ||
-      process.env.PORT ||
-      3000,
-    10,
-  )
+const port = () => 8080
 
 const _port = port()
 

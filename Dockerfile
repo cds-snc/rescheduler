@@ -5,7 +5,7 @@ ADD ./ /web
 
 WORKDIR /web
 
-EXPOSE 3000
+EXPOSE 8080
 
 RUN npm install --production
 RUN npm build
