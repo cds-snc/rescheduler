@@ -10,6 +10,4 @@ EXPOSE 8080
 RUN npm install --production
 RUN npm build
 
-USER node
-
 ENTRYPOINT ["npm", "start"]
