@@ -8,7 +8,7 @@
   "scripts": {
     "build": "razzle build",
     "dev": "razzle start",
-    "lint": "node_modules/eslint/bin/eslint.js src test",
+    "lint": "node_modules/eslint/bin/eslint.js src",
     "start": "NODE_ENV=production node --icu-data-dir=./node_modules/full-icu build/server.js",
     "build:start": "yarn build && yarn start",
     "test": "node --icu-data-dir=./node_modules/full-icu node_modules/jest/bin/jest.js",
