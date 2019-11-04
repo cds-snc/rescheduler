@@ -1,4 +1,3 @@
-import { setGlobalLocation, whitelist } from '../locations'
 import gitHash from './gitHash'
 import path from 'path'
 
@@ -32,27 +31,7 @@ export const notPageMatch = (url, pageName) => {
 }
 
 export const getPrimarySubdomain = function(req, res, next) {
-  req.subdomain = req.subdomains.slice(-1).pop()
-
-  const protocol = process.env.RAZZLE_IS_HTTP ? 'http' : 'https'
-
-  // handle localhost
-  if (!req.subdomain) {
-    // default to vancouver
-    req.subdomain = 'vancouver'
-  }
-
-  /* If domain isn't on the whitelist and we're not on the not-found or 500 page */
-  if (
-    !whitelist.includes(req.subdomain) &&
-    notPageMatch(req.path, 'not-found') &&
-    notPageMatch(req.path, '500')
-  ) {
-    return res.redirect(
-      `${protocol}://${process.env.RAZZLE_SITE_URL}/not-found`,
-    )
-  }
-
+  req.subdomain = 'demo'
   next()
 }
 
@@ -69,8 +48,7 @@ const _ensureBody = (req, res, next, cb) => {
 }
 
 export const ensureLocation = (req, res, next) => {
-  /* If we don't have a location string being passed in, something is wrong */
-  return _ensureBody(req, res, next, () => setGlobalLocation(req.subdomain))
+  next()
 }
 
 const getStacktraceData = data => {
