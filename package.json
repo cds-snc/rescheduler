@@ -24,7 +24,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.23",
-    "@jaredpalmer/after": "^1.4.0",
+    "@jaredpalmer/after": "^1.6.1",
     "@lingui/babel-preset-react": "^2.8.3",
     "@lingui/react": "^2.8.3",
     "babel-eslint": "^10.0.3",
